@@ -45,7 +45,7 @@ The build philosophy follows a deliberate-design approach: proper OU structure, 
 | # | Project | Status |
 |---|---------|--------|
 | 1 | [VirtualBox networking + Windows Server preparation](./Project-1-Network-Foundation/README.md) | ✅ Complete |
-| 2 | Active Directory Domain Services + integrated DNS | ⬜ Planned |
+| 2 | [Active Directory Domain Services + integrated DNS](./Project-2-AD-DS/README.md) | ✅ Complete |
 | 3 | Organizational Unit structure + users and groups | ⬜ Planned |
 | 4 | DHCP scope configuration | ⬜ Planned |
 | 5 | Group Policy Objects (practical GPOs) | ⬜ Planned |
